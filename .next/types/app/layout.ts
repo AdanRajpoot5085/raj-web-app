@@ -1,4 +1,4 @@
-// File: /Users/kpklaptops/Desktop/raj-web-app-main/app/layout.js
+// File: /workspaces/raj-web-app/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
