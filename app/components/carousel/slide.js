@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import './Slide.css'; // Import CSS specific to Slide component
+import './slide.css'; // Import CSS specific to Slide component
 
 function Slide({ title, description, image, additionalImage, additionalDescription , style }) {
   return (
