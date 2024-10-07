@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Nav from "./components/nav";
 import Header from "./components/header";
-import Container from "./components/Layout";
+// import Container from "./components/Layout";
 import Carousel from './components/carousel/carousel';
 import './components/carousel/carousel.css';  // Import the CSS
 import Container2 from './components/container/container';
@@ -18,7 +18,7 @@ export default function Home() {
     <main className="" style={{maxWidth:"1440px" ,width:"100%" ,margin:"auto"}}>
       <Nav />
       <Header />
-      <Container />
+      {/* <Container /> */}
       <Carousel />
       <Container2 />
       <Number />
